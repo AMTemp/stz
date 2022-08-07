@@ -3,7 +3,7 @@ import type { NextPage } from 'next'
 import Head from 'next/head'
 import fs from 'fs'
 import React, { useEffect, useState } from 'react'
-// ts-ignore
+// @ts-ignore
 import icons from 'https://cdn.jsdelivr.net/npm/@exuanbo/file-icons-js@latest/dist/js/file-icons.esm.min.js'
 
 
