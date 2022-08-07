@@ -1,0 +1,5 @@
+{
+  "https://cdn.jsdelivr.net/npm/@exuanbo/file-icons-js@latest/dist/js/file-icons.esm.min.js": { "integrity": "sha512-efhNUwX2ddIv8LAUw8CSEA5S150LVg9F17L74q1YF8v+JIyIxA/ndjB8mZPkwsPkZGikmZGt4IeBjNkIkLSCOw==", "contentType": "application/javascript; charset=utf-8" },
+  "https://cdn.jsdelivr.net/npm/@exuanbo/file-icons-js@latest/dist/js/file-icons.min.js": { "integrity": "sha512-aPkl8rT48DwzvUXJHRtcSAfQHjw89UUpVva5gR2cZKL3ZiNYFwLx81ayuMUkfyOL77OIEE5WMXP5/yX/DXRNdw==", "contentType": "application/javascript; charset=utf-8" },
+  "version": 1
+}
